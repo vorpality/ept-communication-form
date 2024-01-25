@@ -1,12 +1,12 @@
 #build
-/build/
+./build/*
 
 #npm stuff
-/node_modules/
-/package*
+node_modules/
+package*.json
 
 #general stuff
-/index.php
+index.php
 
 #translations?
-/languages/
+languages/
