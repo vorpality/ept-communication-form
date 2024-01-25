@@ -1,8 +1,8 @@
 #build
-./build/*
+build/*
 
 #npm stuff
-node_modules/
+node_modules/*
 package*.json
 
 #general stuff
@@ -10,3 +10,7 @@ index.php
 
 #translations?
 languages/
+build/blocks/contact-form/block.json
+build/blocks/contact-form/index.asset.php
+build/blocks/contact-form/index.css
+build/blocks/contact-form/index.js
