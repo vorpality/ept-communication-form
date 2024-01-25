@@ -1,16 +1,14 @@
 #build
-build/*
+/build
 
 #npm stuff
-node_modules/*
-package*.json
+/node_modules
 
 #general stuff
-index.php
+/index.php
+/package-lock.json
+/package.json
 
 #translations?
-languages/
-build/blocks/contact-form/block.json
-build/blocks/contact-form/index.asset.php
-build/blocks/contact-form/index.css
-build/blocks/contact-form/index.js
+/languages
+
